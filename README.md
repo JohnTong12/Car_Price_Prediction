@@ -153,7 +153,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments (🙌)
 
-- **Dataset**: [Kaggle Car Price Prediction Dataset](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes) (please update if the dataset source differs).
+- **Dataset**: [Kaggle Car Price Prediction Dataset]([https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes](https://www.kaggle.com/datasets/CooperUnion/cardataset)) (please update if the dataset source differs).
 - **Tools and Libraries**:
   - [Streamlit](https://streamlit.io/) for the web app framework.
   - [Scikit-learn](https://scikit-learn.org/) for machine learning pipelines.
@@ -166,6 +166,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions, feedback, or suggestions, please contact:
 
 - GitHub: [johntong12](https://github.com/johntong12)
-- Email: [your_email@example.com] (please replace with your actual email)
+- Email: [tongjohn9@gmail.com] 
 
 Happy predicting car prices! 🎉

@@ -1,5 +1,8 @@
 # Car Price Predictor
 
+![](Images/Cars.jpg)
+
+---
 The Car Price Predictor is a machine learning application designed to estimate the price of a car based on its specifications, such as brand, year, fuel type, horsepower, and more. Built with Streamlit, this user-friendly web app allows you to input car details and instantly receive a predicted price, making it a valuable tool for car buyers, sellers, and enthusiasts alike.
 
 ## Try the App (🌐)

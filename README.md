@@ -150,9 +150,6 @@ Contributions to this project are welcome! If you'd like to contribute, follow t
 
 Please ensure your code follows PEP 8 guidelines and includes necessary documentation.
 
-## License (📜)
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments (🙌)
 
